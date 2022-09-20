@@ -2,7 +2,8 @@
 template: overrides/main.html
 ---
 
-# Browser support
+# Browser supports
+
 
 Material for MkDocs goes at great lengths to support the largest possible range
 of browsers while retaining the simplemost possibilities for customization via
